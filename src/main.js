@@ -6,6 +6,7 @@ import logo15 from '../assts/Group 15.png';
 import logo17 from '../assts/Group 17.png';
 import logo18 from '../assts/Group 18.png';
 import logo19 from '../assts/Group 19.png';
+import logo20 from '../assts/Group20.png';
 import heroImage from './assets/rehletna-hero.png';
 
 const logoThemes=[
@@ -15,7 +16,10 @@ const logoThemes=[
   {id:'coral',name:'Rehletna Coral',file:'Group 15.png',logo:logo15,accent:'#FF6B57',hover:'#E95745',soft:'#FF6B5726'},
   {id:'golden',name:'Golden Yellow',file:'Group 17.png',logo:logo17,accent:'#C89B3C',hover:'#AD8229',soft:'#C89B3C26'},
   {id:'warm-gradient',name:'Warm Gradient',file:'Group 18.png',logo:logo18,accent:'#D99A48',hover:'#C17E32',soft:'#D99A4826',gradient:'linear-gradient(135deg, #C89B3C, #FF6B57)'},
-  {id:'soft-coral',name:'Soft Coral',file:'Group 19.png',logo:logo19,accent:'#FF6F5E',hover:'#E85B4B',soft:'#FF6F5E26'}
+  {id:'soft-coral',name:'Soft Coral',file:'Group 19.png',logo:logo19,accent:'#FF6F5E',hover:'#E85B4B',soft:'#FF6F5E26'},
+  {id:'group-13-gold-coral',name:'Group 13 — Gold Coral',file:'Group 13.png',logo:logo13,accent:'#D99A48',hover:'#C17E32',soft:'#D99A4826',gradient:'linear-gradient(135deg, #C89B3C, #FF6B57)'},
+  {id:'group-20-gold',name:'Group 20 — Gold Coral',file:'Group20.png',logo:logo20,accent:'#C89B3C',hover:'#E06148',soft:'#F2765726',gradient:'linear-gradient(180deg, #C89B3C 0%, #F27657 100%)'},
+  {id:'group-20-coral',name:'Group 20 — Coral',file:'Group20.png',logo:logo20,accent:'#FF6B57',hover:'#E95745',soft:'#FF6B5726'}
 ];
 const defaultLogo=logo12;
 const photos={
